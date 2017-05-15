@@ -1,0 +1,12 @@
+{
+  "name": "promises-with-es6-and_q",
+  "version": "0.0.0",
+  "description": "PromisesWithES6And_q",
+  "main": "app.js",
+  "author": {
+    "name": "Josué Danilo Galindo"
+  },
+  "dependencies": {
+    "q": "^1.5.0"
+  }
+}
